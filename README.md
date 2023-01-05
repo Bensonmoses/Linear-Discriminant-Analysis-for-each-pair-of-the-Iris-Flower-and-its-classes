@@ -1,0 +1,1 @@
+# Linear-Discriminant-Analysis-for-each-pair-of-the-Iris-Flower-and-its-classes
